@@ -22,6 +22,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="#built-with">Built with</a></li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -42,6 +43,11 @@
 * ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## Usage
+
+<p>Website is live and hosted, fell free to check it out</p>
+<p><a href="https://github.com/kibonga/MShirts/blob/9e6a11dce157cdcfd8f349fb2de436bceb110356/mshirts_login_credentials.txt" alt="link_mshirts_login_credentials">Login credentials</a></p>
 
 
 <!-- CONTACT -->
