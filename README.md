@@ -31,6 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p>First Server side project made using PHP and MySQL.</p>
+<p>No design pattern were implemented, because this was an introduction to PHP.</p>
 <p>MShirts is a E-commerce web shop specialized in selling shirts for men.<p/>
 <p>Parts of website use AJAX calls to fetch data from server.</p>
 <p>Security is implemented using Session on server side.</p>
